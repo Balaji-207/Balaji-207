@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science along with Machine Learning and Full Stack Development
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me ...?
-- Here is the contact 7032250980 
+- Here is the contact 3123757613 
 - or else connect me in linkedin www.linkedin.com/in/balajiyatagiri
 <!---
 Balaji-207/Balaji-207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
